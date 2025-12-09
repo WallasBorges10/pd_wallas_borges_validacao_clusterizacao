@@ -1675,7 +1675,7 @@ def create_metadata_tab():
         st.markdown("""
         ### Informações Gerais
         - **Data de Geração:** """ + datetime.now().strftime("%d/%m/%Y %H:%M:%S") + """
-        - **Responsável:** Cientista de Dados Sênior
+        - **Responsável:** Wallas Borges
         - **Versão:** 1.0
         - **Status:** Análise Completa
         - **Dataset:** Acidentes de Trânsito - PRF 2025
@@ -5526,4 +5526,5 @@ def main():
         theory_section()
 
 if __name__ == "__main__":
+
     main()
