@@ -5399,7 +5399,7 @@ def main():
     st.title("🚗 Análise de Acidentes de Trânsito - PRF")
     st.markdown("""
     Esta aplicação realiza análise exploratória e clusterização de dados de acidentes de trânsito da PRF.
-    Dados carregados diretamente do repositório GitHub: https://github.com/WallasBorges10/pd_wallas_borges_validacao_clusterizacao
+    Dados carregados diretamente do repositório GitHub
     """)
     
     # Barra lateral - Navegação
@@ -5505,7 +5505,7 @@ def main():
     
     ### 📁 Fonte dos Dados
     - **Dataset**: PRF Acidentes 2025
-    - **Repositório**: https://github.com/WallasBorges10/pd_wallas_borges_validacao_clusterizacao
+    - **Repositório**: https://github.com
     - **Arquivo**: datatran2025.csv
     
     ### 🛠️ Tecnologias utilizadas
@@ -5528,3 +5528,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
